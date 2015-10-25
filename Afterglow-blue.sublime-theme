@@ -450,6 +450,7 @@
     // Tooltip content
     {
         "class": "tool_tip_label_control",
+        "font.size": 10,
         "color": [242, 242, 242] // 07
     },
 
